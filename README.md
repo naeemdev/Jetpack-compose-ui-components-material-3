@@ -10,6 +10,6 @@ Please note that Jetpack Compose evolves rapidly, and there may have been additi
 |Jetpack compose | DatePicker | TimePicker | Custom switch with loading
 
 
-  | [![IMAGE](https://i3.ytimg.com/vi/Z0j5LHrHyhE/maxresdefault.jpg)](https://youtu.be/YYk5RuC4RXg)  | [![IMAGE](http://i3.ytimg.com/vi/YYk5RuC4RXg/hqdefault.jpg)](https://youtu.be/Z0j5LHrHyhE)|
- | [![IMAGE](http://i3.ytimg.com/vi/oDSTy7DVKDI/hqdefault.jpg)](https://youtu.be/oDSTy7DVKDI)|
+  | [![IMAGE](http://i3.ytimg.com/vi/YYk5RuC4RXg/hqdefault.jpg)](https://youtu.be/YYk5RuC4RXg)  | [![IMAGE](http://i3.ytimg.com/vi/YYk5RuC4RXg/hqdefault.jpg)](https://youtu.be/Z0j5LHrHyhE)|
+ | [![IMAGE](http://i3.ytimg.com/vi/oDSTy7DVKDI/hqdefault.jpg)](https://youtu.be/oDSTy7DVKDI)|  [![IMAGE](http://i3.ytimg.com/vi/nNLeKx6NFoM/hqdefault.jpg)](https://youtu.be/nNLeKx6NFoM)|
   
