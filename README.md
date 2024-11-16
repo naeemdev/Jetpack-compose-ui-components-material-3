@@ -13,5 +13,5 @@ Please note that Jetpack Compose evolves rapidly, and there may have been additi
   | [![IMAGE](https://i3.ytimg.com/vi/Z0j5LHrHyhE/maxresdefault.jpg)](https://youtu.be/YYk5RuC4RXg)  | [![IMAGE](http://i3.ytimg.com/vi/YYk5RuC4RXg/hqdefault.jpg)](https://youtu.be/Z0j5LHrHyhE)|
 
 
-| [![IMAGE](https://i9.ytimg.com/vi_webp/YYk5RuC4RXg/mqdefault.webp?v=6730465d&sqp=CISMwbkG&rs=AOn4CLAsJDcE0ZJArfYJxz9touwo35s3xg)](https://youtu.be/oDSTy7DVKDI) 
+| [![http://i3.ytimg.com/vi/oDSTy7DVKDI/hqdefault.jpg)](https://youtu.be/oDSTy7DVKDI) 
   
