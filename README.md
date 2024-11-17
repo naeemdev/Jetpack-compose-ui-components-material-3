@@ -15,4 +15,12 @@ Please note that Jetpack Compose evolves rapidly, and there may have been additi
 Custom switch with loading  | Custom TextField
   
  | [![IMAGE](http://i3.ytimg.com/vi/oDSTy7DVKDI/hqdefault.jpg)](https://youtu.be/oDSTy7DVKDI)| [![IMAGE](http://i3.ytimg.com/vi/nNLeKx6NFoM/hqdefault.jpg)](https://youtu.be/nNLeKx6NFoM)|
+
+
+Custom Dialog  | Custom Toolbar | Cutom bottombar
+
+ | [![IMAGE](https://img.youtube.com/vi/8-yF9tPy5_o/0.jpg)](https://youtu.be/8-yF9tPy5_o) | [![IMAGE](https://img.youtube.com/vi/vlJck3Sy1oI/0.jpg)](https://youtu.be/vlJck3Sy1oI)
+ | [![IMAGE](https://img.youtube.com/vi/bSuImWMFlVM/0.jpg)](https://youtu.be/bSuImWMFlVMI)
+
+
   
